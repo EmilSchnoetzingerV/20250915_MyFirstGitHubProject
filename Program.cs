@@ -10,3 +10,4 @@ Console.WriteLine("Test nachdem Spalt die WELT gerettet hat.");
 Console.WriteLine("Mit Spaltigem Brunch");
 
 Console.WriteLine("Fugger sagt:");
+Console.WriteLine("Fugger sagt 2");
